@@ -24,6 +24,9 @@ When run, the utility will attempt to download current PTCGP card data from [Pok
 
 After all card data has been acquired, the utility will output potential trades by rarity between the two collections, making trade coordination trivial on both ends!
 
+> [!NOTE]
+> If you wish to change the threshold of card count to consider for trades, feel free to modify `count_threshold`. By default, this value is 1, but changing it to 2 will prevent cards with two copies owned from being listed.
+
 # Restrictions
 
 There are certain expansions/rarities that cannot be traded. Some of these restrictions can be accounted for with this utility.
