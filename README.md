@@ -8,6 +8,8 @@ This utility assumes that both users have their collections tracked with [ptcgp.
 
 # Setup
 
+A stable version of Python 3 should be used (3.9+).
+
 To install required dependencies (just [requests](https://docs.python-requests.org/en/latest/index.html)), run `pip3 install -r requirements.txt`. Use of a virtual environment is left up to the user, but recommended.
 
 # How to Use
