@@ -2,6 +2,9 @@
 
 ![GitHub License](https://img.shields.io/github/license/jojojo8359/ptcgp-trade)
 
+> [!IMPORTANT]
+> Due to the disappearance of [ptcgp.app](https://ptcgp.app/), this project has been archived.
+
 A small utility for coordinating trades with another user for the Pokémon Trading Card Game: Pocket mobile game.
 
 This utility assumes that both users have their collections tracked with [ptcgp.app](https://ptcgp.app/), and have exported their collections as JSON files.
